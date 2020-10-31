@@ -13,7 +13,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/francogonzalezosorio/mat281_portfolio/master?urlpath=lab)
 
-* __Franco González__ : #[My Page](https://www.linkedin.com/in/williamhgates/)-
+* __Franco González__ : 
 
 * __Repositorio Curso__:
     - [2019](https://github.com/aoguedao/mat281_2019S2)
